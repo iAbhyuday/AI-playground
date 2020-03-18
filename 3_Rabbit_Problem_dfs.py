@@ -1,8 +1,4 @@
-#Abhyuday Tripahi 201752005
-#Arpit Tiwari 201751009
-#Abhimanyu Raj 201752002
-
-
+#Abhyuday Tripahi 
 from collections import OrderedDict
 
 from copy import deepcopy,copy
